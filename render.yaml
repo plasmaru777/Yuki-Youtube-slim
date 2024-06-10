@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-math-blog
+    name: yuki-fc-Bayern-Munich
     env: python
     region: Oregon
     plan: free
